@@ -17,8 +17,6 @@ This Arduino project uses an ultrasonic sensor and a servo motor to detect when 
 - **Jumper Wires**
 - Optional: **PCB** for cleaner wiring (if using a custom PCB)
 
-## Wiring Diagram
-*(Insert your wiring diagram or photo here)*
 
 ## Files
 
